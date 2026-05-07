@@ -8,7 +8,7 @@ A browser-based **Tic Tac Toe** project with multiple play modes:
 
 The project combines a static frontend (HTML/CSS/JavaScript) with a lightweight Node.js server for multiplayer support.
 
----
+----
 
 ## Features
 
