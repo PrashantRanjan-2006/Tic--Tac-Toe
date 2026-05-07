@@ -74,7 +74,7 @@ Tic-Tac-Toe-master/
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (recommended: current LTS)
+- [Node.js](https://nodejs.org/) (18.x or higher recommended)
 - npm (comes with Node.js)
 
 ### Installation
@@ -153,7 +153,7 @@ http://localhost:3000
 From `Tic-Tac-Toe-master/`:
 
 - `npm start` — starts the Express/Socket.IO server (`index.js`)
-- `npm test` — placeholder script (currently exits with `Error: no test specified`)
+- `npm test` — placeholder script; automated tests are not implemented yet
 
 ---
 
