@@ -1,4 +1,4 @@
-# Tic--Tac-Toe
+# Tic Tac Toe
 
 A browser-based **Tic Tac Toe** project with multiple play modes:
 
@@ -153,7 +153,7 @@ http://localhost:3000
 From `Tic-Tac-Toe-master/`:
 
 - `npm start` — starts the Express/Socket.IO server (`index.js`)
-- `npm test` — placeholder script (currently returns “no test specified”)
+- `npm test` — placeholder script (currently exits with `Error: no test specified`)
 
 ---
 
