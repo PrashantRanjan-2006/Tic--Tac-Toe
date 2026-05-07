@@ -60,3 +60,4 @@ Contributions are welcome.
 ## License
 
 No license file is currently included. If you’d like, add a `LICENSE` file (e.g., MIT) to make usage terms explicit.
+
